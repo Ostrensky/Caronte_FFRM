@@ -1,2 +1,2 @@
-1) Função de leitura de simples removida devido a falhas. Cheque o regime tributário manualmente.
-2) Atualização na leitura do banco de dados para notas fiscais. Se houver alguma empresa com emissão de nota como simples, faça o download novamente ou cheque no iss curitiba.
+1) Façam o download novamente de todas as notas fiscais. A princípio, o problema de duplicação foi resolvido.
+2) Função de leitura de simples removida devido a falhas. Cheque o regime tributário manualmente.
