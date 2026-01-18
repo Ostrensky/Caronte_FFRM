@@ -1,0 +1,2 @@
+1) Função de leitura de simples removida devido a falhas. Cheque o regime tributário manualmente.
+2) Atualização na leitura do banco de dados para notas fiscais. Se houver alguma empresa com emissão de nota como simples, faça o download novamente ou cheque no iss curitiba.
