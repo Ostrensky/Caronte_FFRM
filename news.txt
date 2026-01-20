@@ -1,2 +1,1 @@
-1) Façam o download novamente de todas as notas fiscais. A princípio, o problema de duplicação foi resolvido.
-2) Função de leitura de simples removida devido a falhas. Cheque o regime tributário manualmente.
+1) Parte nova de controle dos autos gerados
